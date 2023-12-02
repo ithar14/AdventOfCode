@@ -1,10 +1,10 @@
-<details>
-<summary>AOC 23</summary>
+## AOC 23
   
-![](https://img.shields.io/badge/stars%20⭐-2-yellow)
+![](https://img.shields.io/badge/stars%20⭐-4-yellow)
   
 * [Day 1: Trebuchet?!](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day1.py)
-</details>
+* [Day 2: Cube Conundrum](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day2.py)
+
 
 <details>
 <summary>AOC 21</summary>
