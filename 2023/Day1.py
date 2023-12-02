@@ -1,4 +1,4 @@
-data = open('../input/Day1.txt', 'r').read().split('\n')
+data = open('/input/Day1.txt', 'r').read().split('\n')
 
 #================== part 1 ==================#
 calnums=[]
