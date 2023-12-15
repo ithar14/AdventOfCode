@@ -1,18 +1,19 @@
 ## AOC 23
   
-![](https://img.shields.io/badge/stars%20⭐-11-yellow)
+![](https://img.shields.io/badge/stars%20⭐-13-yellow)
 
-|                                                                                           |   part 1 |   part 2  |
-|-------------------------------------------------------------------------------------------|----------|-----------|
-| [Day 1: Trebuchet?!](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day1.py)    |    ✅    |    ✅    |
-| [Day 2: Cube Conundrum](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day2.py) |    ✅    |    ✅    |
-|   Day 3: Gear Ratios                                                                      |    ✅    |    🚧    |
-|   Day 4: Scratchcards                                                                     |    ✅    |    🚧    |
-|   Day 5: If You Give A Seed A Fertilizer                                                  |    ✅    |    🚧    |
-|   [Day 6: Wait For It](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day6.py)  |    ✅    |    ✅    |
-|   Day 7: Camel Cards                                                                      |    🚧    |          |
-|   Day 8: Haunted Wasteland                                                                |    ✅    |    🚧    |
-|   Day 9: Mirage Maintenance                                                               |    ✅    |    🚧    |
+|                                                                                              |   part 1 |   part 2  |
+|----------------------------------------------------------------------------------------------|----------|-----------|
+|   [Day 1: Trebuchet?!](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day1.py)     |    ✅    |    ✅    |
+|   [Day 2: Cube Conundrum](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day2.py)  |    ✅    |    ✅    |
+|   Day 3: Gear Ratios                                                                         |    ✅    |    🚧    |
+|   Day 4: Scratchcards                                                                        |    ✅    |    🚧    |
+|   Day 5: If You Give A Seed A Fertilizer                                                     |    ✅    |    🚧    |
+|   [Day 6: Wait For It](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day6.py)     |    ✅    |    ✅    |
+|   Day 7: Camel Cards                                                                         |    🚧    |          |
+|   Day 8: Haunted Wasteland                                                                   |    ✅    |    🚧    |
+|   Day 9: Mirage Maintenance                                                                  |    ✅    |    🚧    |
+|   [Day 15: Lens Library](https://github.com/ithar14/AdventOfCode21/blob/main/2023/Day15.py)  |    ✅    |    ✅    |
 
 <details>
 <summary>AOC 21</summary>
